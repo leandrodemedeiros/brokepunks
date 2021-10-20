@@ -1,0 +1,9 @@
+{
+    "image": "https://raw.githubusercontent.com/leandrodemedeiros/brokepunks/main/nft/6.png",
+    "name": "Broke Punk #6",
+    "description": "The Broke Punks",
+    "attributes": [
+        {"trait_type": "Hair","value": "Red"},
+        {"trait_type": "Color","value": "Black"},
+    ]
+}
