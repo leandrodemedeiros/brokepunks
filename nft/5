@@ -4,6 +4,6 @@
     "description": "The Broke Punks",
     "attributes": [
         {"trait_type": "Hair","value": "Brown"},
-        {"trait_type": "Color","value": "Black"},
+        {"trait_type": "Color","value": "Black"}
     ]
 }
